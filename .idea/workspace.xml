@@ -4,15 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf50fb99-84b4-4487-add0-8e70959d2ed7" name="Changes" comment="">
+    <list default="true" id="cf50fb99-84b4-4487-add0-8e70959d2ed7" name="Changes" comment="terceiro commit">
+      <change afterPath="$PROJECT_DIR$/asset/Menu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/PRE_ORIG_SIZE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Interface1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/bacgraud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entityFactori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/pleyer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2dBoBLK8oI5i5i7oXRsRaxTjDW8" />
@@ -25,10 +51,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "aula__pratica01",
+    "last_opened_file_path": "C:/Users/PC/Documents/montaishoter/asset",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\montaishoter\asset" />
+      <recent name="C:\Users\PC\Documents\montaishoter\code" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +71,30 @@
       <option name="presentableId" value="Default" />
       <updated>1709490695893</updated>
     </task>
+    <task id="LOCAL-00001" summary="terceiro commit">
+      <option name="closed" value="true" />
+      <created>1709516759418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709516759418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="terceiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="terceiro commit" />
   </component>
 </project>
