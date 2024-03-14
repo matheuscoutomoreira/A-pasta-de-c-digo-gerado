@@ -1,12 +1,16 @@
 #!/usr/bin/python
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
-from entity import entity
+from code.entity import entity
+from const import WIN_WIDTH, ENTITY_SPEED
+
 
 class bacgraud(entity):
-    def __init__(self):
-        pass
+    def __init__(self, name, position: tuple):
+        super().__init__(name, position)
 
-    def move(self, ):
+    def move(self):
+        self.rect.centerx -= ENTITY_SPEED[self.nome]
+        if self.rect.right <= 0:
+            self.rect.left = WIN_WIDTH
         pass
-
