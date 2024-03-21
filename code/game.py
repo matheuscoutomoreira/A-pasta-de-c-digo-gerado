@@ -2,14 +2,11 @@
 # -*- coding: utf-8 -*-
 import sys
 
-import menu as menu
 import pygame as pygame
-from pygame import Surface, Rect
-from pygame.font import Font
 
 from code.Menu import Menu
 from code.level import level
-from const import WIN_WIDTH, WIN_HEIGTH, MENU_OPTION
+from code.const import WIN_WIDTH, WIN_HEIGTH, MENU_OPTION
 
 
 class game:

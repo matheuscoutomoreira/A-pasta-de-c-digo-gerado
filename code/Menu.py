@@ -7,7 +7,7 @@ from pygame import Surface, Rect
 from pygame.font import Font
 import pygame.mixer_music
 
-from const import WIN_WIDTH, COLOR_ORANGE, MENU_OPTION, COLOR_WHITE, COLOR_YELLOW
+from code.const import WIN_WIDTH, COLOR_ORANGE, MENU_OPTION, COLOR_WHITE, COLOR_YELLOW
 
 
 class Menu:

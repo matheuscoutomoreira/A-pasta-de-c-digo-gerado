@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from code.entity import entity
-from const import WIN_WIDTH, ENTITY_SPEED
+from code.const import WIN_WIDTH, ENTITY_SPEED
 
 
 class bacgraud(entity):

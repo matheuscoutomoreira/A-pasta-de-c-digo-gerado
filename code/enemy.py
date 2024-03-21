@@ -1,12 +1,14 @@
 #!/usr/bin/python
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
+from code.const import ENTITY_SPEED, WIN_WIDTH
+from code.entity import entity
 
-from entity import entity
 
 class enemy(entity):
-    def __init__(self):
-        self.Attribute1 = None
+    def __init__(self, name, position: tuple):
+        super().__init__(name, position)
 
     def move(self, ):
-        pass
-
+        self.rect.centerx -= ENTITY_SPEED[self.nome]
+        if self.rect.right <= 0:
+            self.rect.left = WIN_WIDTH
